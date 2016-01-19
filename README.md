@@ -1,2 +1,2 @@
 # Mobile-IVRS
-Application for setup of mobile based banking systems.
+Twillio based mobile IVRS service. Done for HackUST.
